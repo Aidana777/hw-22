@@ -1,0 +1,230 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,600;1,300&family=Lato:ital,wght@0,400;1,700&family=Mulish:wght@400;600&family=Open+Sans:wght@500&family=Poppins:wght@400;600&family=Raleway:wght@600&family=Roboto:wght@100;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Mulish", sans-serif;
+}
+a {
+  color: rgba(129, 129, 129, 1);
+  text-decoration: none;
+}
+.item-nav {
+  font-style: normal;
+font-weight: normal;
+font-size: 38px;
+line-height: 38px;
+letter-spacing: 1px;
+  font-family: "Josefin Sans", sans-serif;
+  font-style: normal;
+  padding: 7px;
+}
+ul,
+li {
+  list-style: none;
+}
+.header {
+  display: flex;
+  background: rgba(255, 255, 255, 1);
+  margin: 8px;
+}
+.head-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.item-nav__menu {
+  margin-right: 230px;
+}
+.first-text {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+  text-transform: uppercase;
+}
+.pod-tec {
+  color: #818181;
+  padding: 11px;
+}
+.photo{
+  float: left;
+  padding: 7px;
+}
+.lorem{
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  width: 700px;
+  text-align: left;
+  margin-right: 15px;
+  
+}
+.sec{
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  width: 700px;
+ 
+}
+.third{
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  width: 700px;
+}
+.four{
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  width: 700px; 
+}
+.five{
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  width: 700px;   
+}
+.category{
+  font-family: "Josefin Sans", sans-serif;
+  text-transform: uppercase;
+ margin: 20px;
+}
+.side-bar__menu a{
+  color:  rgba(0, 0, 0, 1);
+}
+.aside-item__health a{
+  color:  rgba(61, 139, 116, 1);
+}
+.container{
+  clear: both;
+}
+.aside{
+  text-align: center;
+  width: 50%;
+  float: left;
+  padding-left: 430px;
+}
+.inner_side{
+  border: 1px solid rgba(204, 204, 204, 1)
+}
+.content{
+  float: left;
+}
+.aside-item{
+  margin: 30px;
+}
+.folow{
+  margin: 30px;
+  text-align: left;
+  text-transform: uppercase;
+}
+.maim img{
+  padding: 5px;
+}
+.maim{
+  border: 1px solid rgba(204, 204, 204, 1)
+}
+.banner{
+  clear: both;
+  margin: 20px;
+  background: rgba(249, 249, 249, 1);
+width: 1170px;
+height:480px;
+}
+.leave{
+  text-transform: uppercase;
+  padding: 40px;
+}
+.name{
+  color:rgba(119, 119, 119, 1) ;
+  width: 215px;
+  height: 55px;
+}
+.last{
+  color:rgba(119, 119, 119, 1) ;
+  width: 215px;
+  height: 55px;
+  margin: 10px;
+}
+.btn{
+  background: rgba(61, 139, 116, 1);
+width: 120px;
+margin-left: 20px;
+  padding: 20px;
+color: rgba(255, 255, 255, 1);
+text-transform: uppercase;
+}
+.item-foot{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 38px;
+  line-height: 38px;
+  letter-spacing: 1px;
+    font-family: "Josefin Sans", sans-serif;
+    font-style: normal;
+   color: rgba(255, 255, 255, 1);
+   text-align: center;
+   padding: 7px;
+}
+.footer{
+  
+  background: rgba(35, 35, 35, 1);
+  height: 400px;
+  padding: 30px;
+}
+.icona{
+  position: relative;
+  left: 630px;
+  margin: 10px;
+}
+.class{
+  padding: 10px;
+}
+.footer img{
+  border-radius: 40px;
+}
+.grey{
+  
+ margin-top: 80px;
+ width: 210px;
+ position: relative;
+ top: 30px;
+ background: rgba(50, 50, 50, 1);
+height: 45px;
+width: 50%;
+color: rgba(255, 255, 255, 1);
+
+} 
+.all{
+  height: 40px;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+
+  
+  
+}
+
